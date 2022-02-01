@@ -35,7 +35,7 @@
 <br />
 <br />
 
-[![BlakkBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlakkBerry&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![BlakkBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstoiakevych&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [email]: mailto:maxym.stoiakevych@gmail.com
