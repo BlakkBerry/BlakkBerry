@@ -39,6 +39,6 @@
 
 
 [email]: mailto:maxym.stoiakevych@gmail.com
-[instagram]: https://www.instagram.com/m.stoiakevych/
+[instagram]: https://www.instagram.com/maxym.stoiakevych/
 [linkedin]: https://www.linkedin.com/in/maxym-stoiakevych-2525821a4/
 [telegram]: https://t.me/BlakkBerry
