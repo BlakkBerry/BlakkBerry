@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning about my profession in-depth
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Contribute more to interesting projects
+- 🥅 2023 Goals: Contribute more to interesting projects
 - ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
