@@ -1,10 +1,10 @@
-### Hi there, I'm Maxym 👋 
+### Hi there, I'm Maksym 👋 
 
 ## I'm a fullstack developer
 
 - 🌱 I'm currently learning about my profession in-depth
 - 👯 I’m looking to collaborate with others
-- 🥅 2024 Goals: Contribute more to interesting projects
+- 🥅 2025 Goals: Contribute more to interesting projects
 - ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
